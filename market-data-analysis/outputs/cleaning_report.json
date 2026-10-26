@@ -1,0 +1,20 @@
+{
+  "rows_raw": 1048,
+  "assets": [
+    "MKT",
+    "TECH",
+    "BANK",
+    "ENERGY",
+    "HEALTH",
+    "UTIL",
+    "BOND"
+  ],
+  "duplicate_dates_removed": 5,
+  "was_sorted": false,
+  "non_positive_prices": 1,
+  "missing_cells_before": 60,
+  "rows_dropped_incomplete": 0,
+  "rows_clean": 1043,
+  "start": "2022-01-03",
+  "end": "2025-12-31"
+}
